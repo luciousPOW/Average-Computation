@@ -1,1 +1,1 @@
-# Average-Computation
+# Average-Computation (Beginner friendly)
